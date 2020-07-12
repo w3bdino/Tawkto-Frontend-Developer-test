@@ -1,0 +1,27 @@
+.articlelists {
+  .list-group-item {
+    margin-bottom: 8px;
+    position: relative;
+    padding: 18px;
+
+
+    h4 {
+      font-size: 16px;
+      color:#292b2a;
+      display: inline;
+    }
+    
+    .angleright {
+      color:#28a745;
+      position: absolute;
+      right: 15px;
+      font-size: 24px;
+    }
+
+    .articlelisticon {
+      color:#28a745;
+      font-size: 18px;
+      margin-right: 10px;
+    }
+  }
+}

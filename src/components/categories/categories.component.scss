@@ -1,0 +1,53 @@
+.categorylists {
+  background-color: #f5f3f3;
+  margin-top: 20px;
+  padding: 50px;
+
+  .row {
+    margin: 0;
+  }
+}
+
+.catblock {
+  background-color: #FFFFFF;
+  padding: 30px 10px;
+  text-align: center;
+  min-height: 200px;
+  margin-bottom: 20px;
+
+  .caticon {
+    font-size: 50px;
+    color:#28a745;
+    margin-bottom: 20px;
+    
+    &:hover {
+      color: #32dd5a;
+    }
+  }
+
+  h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  .totalarticle {
+    color: #28a745;
+    font-size: 14px;
+    display: block;
+    font-weight: bold;
+    line-height: 16px;
+  }
+
+  .lastupdate {
+    color: rgb(160, 158, 158);
+    font-size: 12px;        
+  }
+
+  .catlink {
+    color: #000000; 
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}

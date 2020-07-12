@@ -1,0 +1,14 @@
+.pagebreadcrumb {
+  .breadcrumb {
+    background-color: #f5f3f3;
+    margin-bottom: 0;
+    
+    .breadcrumb-item {
+        font-size: 14px;
+      a {
+        color:#28a745;
+        font-weight: bold
+      }
+    }
+  }
+}

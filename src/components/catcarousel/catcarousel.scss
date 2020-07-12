@@ -1,0 +1,31 @@
+.categorycarousel {
+  hr {
+    margin: 30px 0 30px 0;
+  }
+  h4 {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: #5f5e5e
+  }
+
+  .carouselitem {
+    margin: 0 5px 0 5px;
+  }
+  
+  .react-multi-carousel-list {
+    
+  }
+
+  .react-multiple-carousel__arrow {
+    background: rgba(0,0,0,0.2);   
+  }
+
+  .react-multiple-carousel__arrow--right {
+    right: 20px;
+  }  
+
+  .react-multiple-carousel__arrow--left {
+    left: 20px;
+  }    
+}
